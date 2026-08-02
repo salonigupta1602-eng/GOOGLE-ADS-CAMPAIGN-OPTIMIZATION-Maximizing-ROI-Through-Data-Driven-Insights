@@ -69,8 +69,8 @@ CONCLUSION:
 - Paired with the SQL analysis, interactive dashboard, and Power BI package, this project delivers a reusable analytical framework — not just findings — for evidence-based budget, audience, and creative decisions.
 
 <details>
-<summary><strong>How to Reproduce</strong> (click to expand)</summary>
-RECOMMENDATIONS:
+<summary><strong>Recommendations</strong> (click to expand)</summary>
+
 - Prioritize Lead Generation campaigns — the most profit-efficient objective at current spend levels.
 - Shift budget toward high-ROAS segments, led by Business Professionals, targeted by interest × income intersection.
 - Reallocate toward the highest-ROI budget tier — bigger budgets don't guarantee better returns.
