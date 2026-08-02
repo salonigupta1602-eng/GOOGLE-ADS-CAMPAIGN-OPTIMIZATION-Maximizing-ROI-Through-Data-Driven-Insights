@@ -67,7 +67,9 @@ CONCLUSION:
 - Over a fifth of campaigns are currently unprofitable despite strong overall returns — a concrete, quantifiable optimization opportunity, not a marginal edge case.
 - Revenue, profit, and conversions can be reliably forecasted from pre-campaign attributes, letting underperforming configurations be flagged and redesigned before spend commits, not diagnosed after the fact.
 - Paired with the SQL analysis, interactive dashboard, and Power BI package, this project delivers a reusable analytical framework — not just findings — for evidence-based budget, audience, and creative decisions.
-  
+
+<details>
+<summary><strong>How to Reproduce</strong> (click to expand)</summary>
 RECOMMENDATIONS:
 - Prioritize Lead Generation campaigns — the most profit-efficient objective at current spend levels.
 - Shift budget toward high-ROAS segments, led by Business Professionals, targeted by interest × income intersection.
@@ -77,6 +79,7 @@ RECOMMENDATIONS:
 - Standardize on Video creative and monitor Quality Score — the two most controllable, high-leverage factors.
 - Use the predictive model pre-launch to flag likely loss-making configurations before spend commits.
 - Diagnose zero-conversion campaigns via placement-level bounce rate.
+</details>
 
 <details>
 <summary><strong>Project Structure</strong> (click to expand)</summary>
