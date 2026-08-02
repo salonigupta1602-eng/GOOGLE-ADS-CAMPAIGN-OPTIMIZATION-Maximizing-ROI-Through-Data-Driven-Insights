@@ -1,4 +1,4 @@
-# DIGITAL ADVERTISING CAMPAIGN OPTIMIZATION: Data-Driven ROI Analytics & Predictive Modeling
+# GOOGLE-ADS-OPTIMIZATION: Maximizing ROI Through Data Driven Insights
 End-to-end digital ad campaign analytics: Python/SQL, data cleaning, EDA, statistical testing and an interactive Power BI dashboard.
 
 
